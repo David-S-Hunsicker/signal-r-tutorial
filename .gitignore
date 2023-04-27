@@ -1,0 +1,25 @@
+# Visual Studio files
+*.suo
+*.user
+*.ncb
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bin/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Other generated files
+*.log
+*.vspscc
+*.vssscc
+*.cache
+ReSharper*/
+[Tt]est[Rr]esult*/
+*.trx
